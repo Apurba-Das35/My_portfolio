@@ -1,4 +1,8 @@
-@media screen and (max-width:400px){
+@media screen and (max-width:576px){
+    html, body {
+        width: 100%;
+        overflow-x: hidden;
+    }
 
     /* navbar responsive start */
     .navbar-h1-1{
