@@ -37,7 +37,7 @@
 
     /* selected work responsive start */
     .selected-work-view{
-        width: 380px;
+        width: 360px;
         padding-left: 10px;
     }
     .selected-work{
@@ -49,14 +49,14 @@
         padding-left: 10px;
     }
     .selected-work-pic1{
-        width: 378px;
+        width: 350px;
         margin-bottom: 15px;
     }
     .selected-work-h5{
         font-size: 18px;
     }
     .selected-work-pic2{
-        width: 378px;
+        width: 350px;
         margin-bottom: 15px;
         margin-top: 10px;
     }
@@ -96,7 +96,7 @@
         font-size: 25px;
     }
     .cards{
-        width: 378px;
+        width: 350px;
     }
     .clients-say-section{
         padding-left: 10px;
@@ -115,17 +115,17 @@
         margin-top: 50px;
     }
     .blog-img{
-        width: 378px;
+        width: 350px;
         height: 280px;
     }
     .blog-title{
         padding-top: 10px;
     }
     .blog-title-h1{
-        width: 378px;
+        width: 350px;
     }
     .blog-title-line{
-        width: 378px;
+        width: 350px;
     }
     /* blog section responsive end */
 
@@ -133,7 +133,7 @@
     /* footer section responsive start */
     .footer{
         margin-left: 10px;
-        width: 378px;
+        width: 350px;
         display: flex;
         flex-direction: column;
     }
@@ -152,7 +152,7 @@
         padding-top: 10px;
     }
     .footer-btn{
-        width: 350px;
+        width: 320px;
         margin-bottom: 10px;
         margin-top: 0px;
     }
